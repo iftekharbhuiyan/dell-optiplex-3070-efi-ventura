@@ -11,8 +11,8 @@
 
 <p>
 <figure>
-<img src="./screenshots/desktop.png" alt="macOS Sequoia Desktop" />
-<figcaption>Screenshot of the macOS Sequoia Desktop.</figcaption>
+<img src="./screenshots/desktop.png" alt="macOS Ventura Desktop" />
+<figcaption>Screenshot of the macOS Ventura Desktop.</figcaption>
 </figure>
 </p>
 
